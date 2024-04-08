@@ -5,5 +5,6 @@ Once done, the program will write contents to a file and save it.
 
 Max number of tasks: 100.
 
-This program was written in Fortran (.f90).
+This program was written in Fortran (.f90)
+
 Source code in LinkedInLearning_FortranIntro_ToDo_Project --> ToDoProject.f90
